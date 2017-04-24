@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com" />
 
   <remote  name="blisspi"
-           fetch="https://github.com/BlissRomsRPi" />
+           fetch="https://github.com/BlissRoms-RPi" />
 
   <default revision="refs/tags/android-7.1.2_r4"
            remote="aosp"
